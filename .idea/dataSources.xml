@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="BOOKS@121.36.74.19" uuid="4b34ab08-dba0-4d43-b169-9353aa01c1f9">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://121.36.74.19:3306/BOOKS</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="BOOK@localhost" uuid="b8c01871-ac43-4c13-971a-6439669c15e9">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/BOOK</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="BOOK@localhost [2]" uuid="08043071-28d7-4546-b7d9-12a40e857edc">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/BOOK</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="book@localhost" uuid="646bd4d2-4cdc-4ee8-9418-784f47f525a5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/book</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="book@localhost" uuid="f1a91f69-04c9-479a-867a-923be87d98b1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/book?serverTimezone=GMT</jdbc-url>
+    </data-source>
+  </component>
+</project>
